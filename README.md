@@ -18,7 +18,7 @@ print(x.reason)
 ```
 
 
-# How to add Auto Gban Code?
+# How to add Auto ban Code?
 
 Add This Code on Your Gban Module check_and_ban
 
