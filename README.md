@@ -11,7 +11,7 @@ from sylviorus import SYL
 
 x = SYL()
 
-syl = x.get_info(2022120134)
+syl = x.get_info(user.id)
 print(x)
 print(x.reason)
 
