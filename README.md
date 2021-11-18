@@ -1,3 +1,8 @@
+# Installation Requirements
+```
+pip install sylviorus
+```
+
 # How to use
 
 
