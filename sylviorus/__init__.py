@@ -69,7 +69,7 @@ class Attrify(dict):
 
 class SYL:
     def __init__(self,  token) -> None:
-        self.url = "https://sylviorus-api.up.railway.app/"
+        self.url = "https://vanitas-api.up.railway.app/"
         self.admin_token = token
 
 
