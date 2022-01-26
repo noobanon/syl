@@ -14,7 +14,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     license='License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)',
     author='NkSamaX',
-    author_email='-',
+    author_email='noobanon@pm.me',
     url='https://github.com/NksamaX/Syl-Py.git',
     packages=setuptools.find_packages(),
     classifiers=[
